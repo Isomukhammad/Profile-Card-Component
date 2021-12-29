@@ -86,6 +86,10 @@ p{
     letter-spacing: .2em;
 }
 
-h1, h3{
+h2{
+    font-size: 1.3rem;
+}
+
+h1, h2{
     color:hsl(229, 23%, 23%);
 }
